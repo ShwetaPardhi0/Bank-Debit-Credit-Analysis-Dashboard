@@ -27,7 +27,7 @@ This Tableau dashboard supports smarter transaction monitoring, flags unusual ac
 ## 📊 Dashboard Preview
 
 ### 🔹 Bank Debit & Credit Analysis Dashboard
-![Bank Debit & Credit Dashboard](./Images/bank_debit_credit_dashboard.png)
+![Bank Debit & Credit Dashboard](./bank_debit_credit_dashboard.png)
 
 ---
 
